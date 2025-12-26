@@ -1,0 +1,15 @@
+# Folder backend
+Digital Invitation API/
+
+# Node
+node_modules/
+
+# Environment
+.env
+
+# Service account / secret
+service-account-key.json
+
+# OS / editor
+.DS_Store
+.vscode/
